@@ -1,7 +1,6 @@
 ## android-app-1
 - android studioのプロジェクトapp-1のソースコードを管理。
 - Githubとの連携にGithubで発行したトークンを使用。90日設定。
-※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
 
 ### Githubでトークンの発行/設定
 - GithubプロフィールのSettings > Developer Settings > Personal access tokens > Tokens(classic)を開く。
